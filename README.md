@@ -1,6 +1,8 @@
 # smart-home-dashboard-mqtt
 MQTT based smart home control dashboard using Raspberry Pi and ESP32
 
+## Dashboard Preview
+![Dashboard UI](images/WhatsApp Image 2026-04-06 at 11.46.26 PM.jpeg)
 # MQTT-Based Smart Home Control Dashboard using Raspberry Pi and ESP32
 
 This project is a smart home automation dashboard developed using **Raspberry Pi 5**, **ESP32**, **MQTT protocol**, and **Flask**.  
